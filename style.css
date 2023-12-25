@@ -1,0 +1,91 @@
+.background{
+    background-color: #7BD3EA;
+    width: 100%;
+    height: 96vh;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.kaka{
+    font-size: 1.5em;
+}
+
+#pcimage{
+    margin-top: 50px;
+    width: 60%;
+}
+
+.code{
+    display:inline;
+}
+
+.geri{
+    border-radius: 100%;
+}
+
+.me{
+    margin-bottom: 20px;
+}
+
+.skillscontainer{
+    margin-top: 200px;
+}
+
+
+.myskills{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    text-align: left;
+    width: 100%;
+    gap: 10px;
+    margin-top: 100px;
+}
+
+#pingpong{
+   width: 45%;
+   float: right;
+}
+
+#developer{
+    width: 50%;
+    float: right;
+    border-radius: 5%;
+}
+.contactme{
+    margin-top: 150px;
+}
+
+#button{
+font-family: 'PT Sans', sans-serif;
+}
+
+.title{
+    color: #0a58ca;
+}
+
+#myskills{
+font-size: 3rem;
+}
+
+#getintouch{
+    font-size: 2.5rem;
+}
+
+h2{
+    font-family: 'Neuton', serif;
+}
+
+p{
+    font-family: 'Sarabun', sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+
+.footer{
+    background-color: #F6F7C4;
+}
