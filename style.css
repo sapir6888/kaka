@@ -89,3 +89,10 @@ p{
 .footer{
     background-color: #F6F7C4;
 }
+
+@media(max-width:600px){
+    .background{
+        background-color: #7BD3EA;
+        height: 55vh;
+    }
+}
