@@ -92,7 +92,14 @@ p{
 
 @media(max-width:600px){
     .background{
-        background-color: #7BD3EA;
         height: 55vh;
+    }
+
+    #developer{
+        height: 11vh;
+    }
+
+    .title{
+        font-size: 1.3rem;
     }
 }
