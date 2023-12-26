@@ -96,10 +96,18 @@ p{
     }
 
     #developer{
-        height: 11vh;
+        height: 13vh;
+        width: 70%;
     }
 
     .title{
         font-size: 1.3rem;
     }
+
+    #pingpong{
+        width: 60%;
+        margin-right: 10px;
+     }
+
+
 }
